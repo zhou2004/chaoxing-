@@ -12,6 +12,6 @@
 5. (可选配置文件运行) 复制config_template.ini文件为config.ini文件，修改文件内的账号密码内容, 执行 python auto_answers.py -c config.ini
 6. (可选命令行运行)python auto_answers.py -u 手机号 -p 密码 -l 课程ID  
 
-###题库说明  
+### 题库说明  
 需要自己配置可用的api，正确率不做保证，采用的AI模型为GPT-3.5,  
 可供学习参考。
