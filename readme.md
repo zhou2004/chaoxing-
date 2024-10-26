@@ -15,3 +15,7 @@
 ### 题库说明  
 需要自己配置可用的api，正确率不做保证，采用的AI模型为GPT-3.5,  
 可供学习参考。
+
+
+###  参考项目
+https://github.com/Samueli924/chaoxing
