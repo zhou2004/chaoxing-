@@ -5,7 +5,7 @@
 使用前先下载python3.10+  
 目前只支持Edge的驱动自动下载（因为驱动最全）
 ### 源码运行  
-1. git clone https://  至本地
+1. git clone https://github.com/zhou2004/chaoxing-.git  至本地
 2. cd auto_answers
 3. pip install -r requirements.txt
 4. python download.py (下载对应的驱动)
